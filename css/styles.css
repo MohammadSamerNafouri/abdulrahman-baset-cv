@@ -11472,6 +11472,7 @@ section.resume-section .resume-section-content {
   width: 500px !important;
   min-width: 100% !important;
   height: 703px !important;
+  min-height: 703px !important;
   background-color: #9a9b9c;
 }
 .boxVideo{
