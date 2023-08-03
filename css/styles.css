@@ -11449,11 +11449,12 @@ section.resume-section .resume-section-content {
   display: inline-block;
   position: relative;
   width: 100%;
+  min-width: 500px !important;
   height: 100%;
 }
 .boxProject{
-  display: inline-block ;
-  position: relative;
+  /* display: inline-block ;
+  position: relative; */
   background-color: transparent;
   /* align-items: ; */
   width: 500px !important;
@@ -11462,8 +11463,8 @@ section.resume-section .resume-section-content {
   margin: 10px !important;
 }
 .project{
-  display: block;
-  position: absolute;
+  /* display: block;
+  position: absolute; */
   border: 3px !important;
   border-style: groove !important;
   border-color: #9a9b9c !important;
