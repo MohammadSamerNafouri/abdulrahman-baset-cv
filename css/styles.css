@@ -11453,8 +11453,8 @@ section.resume-section .resume-section-content {
   height: 100%;
 }
 .boxProject{
-  /* display: inline-block ;
-  position: relative; */
+  display: inline-block ;
+  position: relative;
   background-color: transparent;
   /* align-items: ; */
   width: 500px !important;
